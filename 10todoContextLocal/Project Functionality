@@ -1,0 +1,11 @@
+There will be array of Todos
+1. Unique Id of Todo 
+2. Title of Todo 
+3. True or False (Completed or not)
+
+Methods:
+1. Add Todo
+2. Edit Todo
+3. Toggle Complete or not
+4. Delete Todo
+5. Read Todo (Listing)
